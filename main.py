@@ -40,7 +40,6 @@ def tresais():
         if attempt == 3:
             print('Pareiza atbilde ir ' + answer+'.')
     
-  score = 0
   print("Atbildiet uz jautajumiem")
   guess1 = input("Popularaka programa kodesanai? ")
   check_guess(guess1, "python")
@@ -51,7 +50,7 @@ def tresais():
   guess4 = input("Vai tev patik programmet? ")
   check_guess(guess4, "Ja")
   print("Tavs punktu skaits ir "+ str(score))
-
+ score = 0
   
    
   
