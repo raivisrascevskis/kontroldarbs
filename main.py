@@ -15,5 +15,5 @@ Izvele = input()
 if Izvele == '1':
   pirmais()
 
-
+dfwedvd
 
