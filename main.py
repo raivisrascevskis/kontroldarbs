@@ -50,7 +50,8 @@ def tresais():
   guess4 = input("Vai tev patik programmet? ")
   check_guess(guess4, "Ja")
   print("Tavs punktu skaits ir "+ str(score))
- score = 0
+
+score = 0
   
    
   
