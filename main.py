@@ -45,5 +45,11 @@ check_guess(guess4, "ja")
 
 print("Your Score is "+ str(score))
 
-ff
-d
+print('ievadi 5 skaitļus no -10 lidz 10' )
+count = 0
+for i in range(5):
+  num = eval(input('Enter a number: '))
+  
+print('your numbers are.')
+print(num)
+
